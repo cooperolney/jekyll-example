@@ -2,7 +2,7 @@
 layout: home
 title: Welcome Home!
 header:
-  image: /assets/images/trees.jpeg
+  image: /assets/images/tree.jpeg
 
 ---
 
