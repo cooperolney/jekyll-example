@@ -5,7 +5,7 @@ excerpt: This is a test excerpt
 header:
   overlay_image: /assets/images/tree.jpeg
   actions:
-    - label: "Learn More:
+    - label: "Learn More"
       url: /about
   overlay_filter: rgba(245, 114, 13, 0.5)
 ---
