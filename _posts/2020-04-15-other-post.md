@@ -7,4 +7,4 @@ author:
     email: jdoe@gmail.com
 ---
 
-This is my first post.
+This is a blog post.
