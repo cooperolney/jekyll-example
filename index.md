@@ -14,7 +14,9 @@ header:
 
 Bundle up and step into the heart of the North!   
 
-Winterfell is a land of towering stone walls, roaring fires, and stories whispered through the snow. 
+Winterfell is a land of towering stone walls, roaring fires, and stories whispered through the snow.
+
+![winterfell](winterfell2.webp)
 
 Winterfell isn’t just a destination, it’s an adventure wrapped in history, mystery, and a little bit of Northern magic.
 
@@ -22,19 +24,22 @@ Winterfell isn’t just a destination, it’s an adventure wrapped in history, m
 
 Nestled deep in the North of Westeros, Winterfell is surrounded by rolling forests, crisp mountain air, and snow-dusted fields as far as the eye can see. 
 
-[]()
+![map](map.webp)
 
 A true Northern gem, it’s equal parts fortress and wonderland. Getting here is half the adventure—staying here is unforgettable.
 
 ## Discover More at Winterfell
 
 - [**History**](history.md)
+
   Travel back through centuries of Northern legends. From the sacred godswood to the Great Hall, every stone has a story to tell.
 
 - [**Activities**](activities.md)
+
   Whether you’re practicing your archery, strolling snowy paths, or celebrating under the northern lights, Winterfell is the perfect place for adventure.
 
 - [**Dining**](dining.md)
+
   Feast like a Stark in the Great Hall! Hearty stews, roasted meats, and warm mulled wine await to chase away the chill.
 
 
