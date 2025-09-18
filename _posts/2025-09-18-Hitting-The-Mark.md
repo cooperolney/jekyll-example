@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Other Post
+title: Hitting the Mark
 author_profile: true
 author:
     name: Jon Snow

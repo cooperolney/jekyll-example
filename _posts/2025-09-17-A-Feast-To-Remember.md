@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My First Post
+title: A Feast to Remember
 author_profile: true
 author:
     name: Arya Stark
