@@ -3,7 +3,7 @@ title: Dining
 layout: single
 ---
 
-# Feast Like a Stark
+# Feast Like a Stark!
 
 ## The Great Hall
 
