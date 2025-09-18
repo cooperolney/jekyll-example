@@ -10,7 +10,7 @@ header:
   overlay_filter: linear-gradient(rgba(236,255,253, 0.5), rgba(160,230,236, 0.5))
 ---
 
-# Welcome to Winterfell?
+# Welcome to Winterfell!
 
 Bundle up and step into the heart of the North!   
 
