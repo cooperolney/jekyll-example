@@ -3,7 +3,7 @@ title: History
 layout: single
 ---
 
-# A Castle of Legends
+## A Castle of Legends
 
 Winterfell has stood for thousands of years, a fortress of strength and tradition in the heart of the North. Its walls echo with tales of loyalty, bravery, and survival.
 

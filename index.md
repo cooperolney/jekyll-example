@@ -7,7 +7,7 @@ header:
   actions:
     - label: "Learn More"
       url: /history
-  overlay_filter: linear-gradient(rgba(236,255,253, 0.5), rgba(160,230,236, 0.5))
+  overlay_filter: linear-gradient(rgba(236,255,253, 0.75), rgba(160,230,236, 0.5))
 ---
 
 # Welcome to Winterfell!
