@@ -3,7 +3,7 @@ layout: home
 title: Welcome Home!
 excerpt: This is a test excerpt
 header:
-  overlay_image: /assets/images/tree.jpeg
+  overlay_image: /assets/images/winterfell.webp
   actions:
     - label: "Learn More"
       url: /history
