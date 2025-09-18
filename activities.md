@@ -3,7 +3,7 @@ title: Activities
 layout: single
 ---
 
-# Adventure Awaits in the North!
+## Adventure Awaits in the North!
 
 - **Guided Godswood Walks**
     
